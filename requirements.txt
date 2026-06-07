@@ -1,1 +1,7 @@
 streamlit
+google-genai
+plotly
+fpdf2
+pillow
+pandas
+st-gsheets-connection
